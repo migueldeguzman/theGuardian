@@ -1,4 +1,7 @@
-**Guardian Archetype AI Alignment Project**
+# **The Guardian Archetype**
+
+Link to post on [LessWrong](). 
+
 
 **Overview**
 This project explores the use of Jungian archetypes and artificial personas (APs) to address AI alignment issues, specifically focusing on goal misgeneralization and corrigibility. The main idea is to create Artificially Generated Archetypes (AGAs) embedded in archetypal stories, which are then used to train and fine-tune AI systems, ultimately producing the Guardian Persona.
